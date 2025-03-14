@@ -31,7 +31,7 @@ body {
 .caja-fuerte {
   display: flex;
   background-color: #fff;
-  border: 5px solid #e56ab5;
+  border: 5px solid #3451d4;
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -68,7 +68,7 @@ body {
   width: 24px;
   height: 24px;
   margin-right: 10px;
-  color: #d1548f; /* Color del ícono */
+  color: #3451d4; /* Color del ícono */
 }
 
 #texto-codigo {
@@ -96,7 +96,7 @@ body {
   font-size: 18px;
   border: none;
   border-radius: 5px;
-  background-color: #d1548f;
+  background-color: #3451d4;
   color: white;
   cursor: url(assets/icon/love-pointer.cur), auto;
   transition: background-color 0.3s;
@@ -104,7 +104,7 @@ body {
 }
 
 .botones button:hover {
-  background-color: #e56ab5;
+  background-color: #3451d4;
 }
 
 /* Sección del contador (oculta inicialmente) */
@@ -131,12 +131,12 @@ body {
   height: 80px;
   padding: 4px;
   border-radius: 50%;
-  border: 3px dashed #e56ab5;
+  border: 3px dashed #3451d4;
   margin-right: 40px;
 }
 
 .titulo-cabecera {
-  background-color: #d1548f;
+  background-color: #3451d4;
   padding: 10px 40px;
   border-radius: 20px;
   color: white;
@@ -157,7 +157,7 @@ body {
 #linea-superior {
   font-size: 34px;
   font-weight: bold;
-  color: #d1548f;
+  color: #3451d4;
   margin-bottom: 20px;
   font-family: "Knewave", cursive;
 }
@@ -184,7 +184,7 @@ body {
 .unidad-tiempo span {
   font-size: 74px;
   font-weight: bold;
-  color: #d1548f;
+  color: #3451d4;
   display: block;
   font-family: "Knewave", cursive;
 }
@@ -193,7 +193,7 @@ body {
   font-size: 24px;
   margin: 5px 0 0;
   font-family: "Knewave", cursive;
-  color: #df4c71;
+  color: #3451d4;
 }
 
 /* Botón del contador */
@@ -203,7 +203,7 @@ body {
   align-items: center; /* Centrar verticalmente el ícono y el texto */
   justify-content: center; /* Centrar horizontalmente */
   padding: 15px 30px; /* Ajustamos el padding para que se vea mejor */
-  background-color: #d1548f;
+  background-color: #3451d4;
   border: none;
   border-radius: 40px;
   color: white;
@@ -217,7 +217,7 @@ body {
 }
 
 .boton-contador:hover {
-  background-color: #e56ab5;
+  background-color: #3451d4;
 }
 
 .boton-contador svg {
@@ -242,7 +242,7 @@ body {
 
 .titulo-galeria h1 {
     font-size: 24px;
-    color: #d1548f;
+    color: #3451d4;
     font-family: "Rubik Spray Paint", cursive;
     margin-bottom: 20px;
 }
@@ -265,7 +265,7 @@ body {
 .boton-transparente {
     background-color: transparent;
     border: none;
-    color: #d1548f;
+    color: #3451d4;
     padding: 10px 20px;
     border-radius: 20px;
     font-size: 16px;
@@ -275,7 +275,7 @@ body {
 }
 
 .boton-transparente:hover {
-    background-color: #fab2d4;
+    background-color: #3451d4;
     color: white;
 }
 
@@ -294,7 +294,7 @@ body {
 
 .titulo-carta h1 {
     font-size: 24px;
-    color: #d1548f;
+    color: #3451d4;
     font-family: "Rubik Spray Paint", cursive;
     margin-bottom: 20px;
 }
@@ -304,8 +304,8 @@ body {
     color: #333;
     padding: 8px;
     border-radius: 30px;
-    border: 1px solid #d1548f;
-    box-shadow: 1px 1px 15px 10px #e98bb7;
+    border: 1px solid #3451d4;
+    box-shadow: 1px 1px 15px 10px #3451d4;
     line-height: 1.6;
     font-family: "Delius", cursive;
     text-align: left;
@@ -323,7 +323,7 @@ body {
   .caja-fuerte {
     display: flex;
     background-color: #fff;
-    border: 5px solid #e56ab5;
+    border: 5px solid #3451d4;
     border-radius: 5px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -360,7 +360,7 @@ body {
     width: 20px;
     height: 20px;
     margin-right: 8px;
-    color: #d1548f; /* Color del ícono */
+    color: #3451d4; /* Color del ícono */
   }
 
   /* Botones del teclado */
@@ -395,12 +395,12 @@ body {
     height: 50px;
     padding: 4px;
     border-radius: 50%;
-    border: 4px dashed #e56ab5;
+    border: 4px dashed #3451d4;
     margin-right: 20px;
   }
   
   .titulo-cabecera {
-    background-color: #d1548f;
+    background-color: #3451d4;
     padding: 6px 20px;
     border-radius: 20px;
     color: white;
@@ -417,7 +417,7 @@ body {
   #linea-superior {
     font-size: 26px;
     font-weight: bold;
-    color: #d1548f;
+    color: #3451d4;
     margin-bottom: 20px;
     font-family: "Knewave", cursive;
   }
@@ -440,7 +440,7 @@ body {
   .unidad-tiempo span {
     font-size: 64px;
     font-weight: bold;
-    color: #d1548f;
+    color: #3451d4;
     display: block;
     font-family: "Knewave", cursive;
   }
@@ -449,7 +449,7 @@ body {
     font-size: 16px;
     margin: 4px 0 0;
     font-family: "Knewave", cursive;
-    color: #df4c71;
+    color: #3451d4;
   }
 
 }
